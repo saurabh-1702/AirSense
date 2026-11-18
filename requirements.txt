@@ -1,0 +1,25 @@
+# Core Web Framework
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+aiohttp
+
+# Machine Learning (CPU versions for Render stability)
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torch-geometric
+
+# Data & Visualization
+numpy
+pandas
+matplotlib
+contourpy
+pillow
+
+# Utilities
+tqdm
+networkx
+pyyaml
+watchfiles
